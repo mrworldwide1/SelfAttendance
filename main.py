@@ -10,7 +10,6 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # ---user configurable options---
-
 driver = webdriver.Chrome() # assumes you're using Chromium-based browser. uncomment/comment whatever browser you use
 # driver = webdriver.Firefox()
 cellLink = "" # paste in your link to the cell
