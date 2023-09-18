@@ -2,7 +2,7 @@
 
 Small tool built with Selenium that automatically fills out the Google Forms attendance sheet for my ICS4U/TEJ4M classes, saving ~10s each day. The same exact cell needs to be filled each school day, thus automation is simple.
 
-> Note: this does **not** run automatically! This script just automates opening and typing into the spreadsheet. So each day that you're present, you have to double-click and run the script.
+> Note: this does **not** run automatically! This script just automates opening and typing into the spreadsheet. So each day that you're present, you have to run the script.
 
 ## Features
 - Cross-browser
