@@ -15,6 +15,3 @@ Small tool built with Selenium that automatically fills out the Google Forms att
 - Open it and edit the user config options to your desired customization. **Add in the link to your cell in the spreadsheet**.
     - NOTE: to get your cell, Right click it>View more cell options>Get link to this cell
 - Run main.py, et voila
-
-## Copyright
-you're free to do anything with this except for selling it and please give credit if you use it at all :)
