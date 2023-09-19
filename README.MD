@@ -4,14 +4,14 @@ Small tool built with Selenium that automatically fills out the Google Forms att
 
 > Note: this does **not** run automatically! This script just automates opening and typing into the spreadsheet. So each day that you're present, you have to run it. 
 
-## Features
-- Cross-browser
-- Cross-platform
-- Fast and efficent
-- It's one less thing to worry about during the day so you can focus on what actually matters
-
 ## Instructions
 - Download main.py
 - **In the user config, Set cellLink to the link to your cell in the spreadsheet**.
     - NOTE: to get your cell, Right click it>View more cell options>Get link to this cell
 - Run main.py, et voila
+
+## Features
+- Cross-browser
+- Cross-platform
+- Fast and efficent
+- It's one less thing to worry about during the day so you can focus on what actually matters
