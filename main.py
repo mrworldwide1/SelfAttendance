@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # ---user configurable options---
-cellLink = "" # paste in your link to the cell from the spreadsheet
+cellLink = "" # paste in your link to the cell from the attendance spreadsheet
 driver = webdriver.Chrome() # assumes you're using Chromium-based browser. uncomment/comment whatever browser you use
 # driver = webdriver.Firefox()
 text = "Here" # whats typed into the doc
