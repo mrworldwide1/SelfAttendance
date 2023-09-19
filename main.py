@@ -10,9 +10,9 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # ---user configurable options---
+cellLink = "" # paste in your link to the cell
 driver = webdriver.Chrome() # assumes you're using Chromium-based browser. uncomment/comment whatever browser you use
 # driver = webdriver.Firefox()
-cellLink = "" # paste in your link to the cell
 text = "Here" # the thing that's typed into the doc
 
 # open link to cell
