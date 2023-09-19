@@ -13,7 +13,7 @@ import time
 cellLink = "" # paste in your link to the cell
 driver = webdriver.Chrome() # assumes you're using Chromium-based browser. uncomment/comment whatever browser you use
 # driver = webdriver.Firefox()
-text = "Here" # the thing that's typed into the doc
+text = "Here" # whats typed into the doc
 
 # open link to cell
 driver.get(cellLink)
