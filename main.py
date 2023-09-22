@@ -11,7 +11,8 @@ import time
 
 # ---user configurable options---
 cellLink = "" # paste in your link to the cell from the attendance spreadsheet
-driver = webdriver.Chrome() # assumes you're using Chromium-based browser. uncomment/comment whatever browser you use
+driver = webdriver.Chrome() # assumes you use Chrome, uncomment whatever browser you use
+# driver = webdriver.Edge()
 # driver = webdriver.Firefox()
 text = "Here" # whats typed into the doc
 
