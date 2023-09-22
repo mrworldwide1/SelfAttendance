@@ -19,9 +19,6 @@ text = "Here" # whats typed into the doc
 # open link to cell
 driver.get(cellLink)
 
-# wait till page loads
-# time.sleep(1)
-
 # types text then presses enter, via Actions API/Action Chains
 actions = ActionChains(driver)
 actions.send_keys(text)
