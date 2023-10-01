@@ -11,7 +11,8 @@ Small tool built with Selenium that automatically types "Here" under my name in 
 ## Instructions
 - Download main.py
 - **In the user config, Set cellLink to the link to your cell in the spreadsheet**.
-    - NOTE: to get your cell, Right click it>View more cell options>Get link to this cell
+    - NOTE: to get it, Right click it>View more cell options>Get link to this cell
+- Uncomment/comment whatever browser you use (Chrome, Firefox, Edge, etc.)
 - Run main.py then wait a few seconds
 
 ## Features
