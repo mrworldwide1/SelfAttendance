@@ -4,7 +4,7 @@ Small tool built with Selenium that automatically types "Here" under my name in 
 
 ## How It Works
 1. You run the script
-2. Browser window is opened and the direct link to your spreadsheet cell is opened
+2. A browser window is opened and the direct link to your spreadsheet cell is opened
 3. "Here" is typed
 > Note: this does **not** run automatically! This script just automates opening and typing into the spreadsheet. So each day that you're present, you have to run it. 
 
