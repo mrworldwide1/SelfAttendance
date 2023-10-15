@@ -1,6 +1,6 @@
 # AutomateAttendance
 
-Small tool built with Selenium that automatically types "Here" under my name in the Google Forms attendance sheet for my classes, saving ~10s each day. The same exact cell needs to be filled every morning I'm present, thus automation is simple.
+Small tool built with Selenium that automatically types "Here" under my name in the Google Sheets attendance for my classes, saving ~10s each day. The same exact cell needs to be filled every morning I'm present, thus automation is simple.
 
 ## How It Works
 1. You run the script
